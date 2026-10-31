@@ -1,2 +1,2 @@
 # github.io
-MathCart Public Web
+MazidSoft Public Web
